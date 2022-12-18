@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Memory-card-game/static/css/main.0941289f.css",
+    "main.css": "/Memory-card-game/static/css/main.e11eaa09.css",
     "main.js": "/Memory-card-game/static/js/main.06d3fe9c.js",
     "static/media/Ant Man.png": "/Memory-card-game/static/media/Ant Man.02c6c04816283f3b639d.png",
     "static/media/Luke Cage.png": "/Memory-card-game/static/media/Luke Cage.cb50efdf742b87d6966b.png",
@@ -24,11 +24,11 @@
     "static/media/Kingpin.png": "/Memory-card-game/static/media/Kingpin.3582c49eb952988add59.png",
     "static/media/Punisher.png": "/Memory-card-game/static/media/Punisher.c8c61f3a97b7cbe66b8c.png",
     "index.html": "/Memory-card-game/index.html",
-    "main.0941289f.css.map": "/Memory-card-game/static/css/main.0941289f.css.map",
+    "main.e11eaa09.css.map": "/Memory-card-game/static/css/main.e11eaa09.css.map",
     "main.06d3fe9c.js.map": "/Memory-card-game/static/js/main.06d3fe9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0941289f.css",
+    "static/css/main.e11eaa09.css",
     "static/js/main.06d3fe9c.js"
   ]
 }
