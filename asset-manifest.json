@@ -1,28 +1,32 @@
 {
   "files": {
-    "main.css": "/Memory-card-game/static/css/main.bbba3134.css",
-    "main.js": "/Memory-card-game/static/js/main.78d5011b.js",
+    "main.css": "/Memory-card-game/static/css/main.608eda25.css",
+    "main.js": "/Memory-card-game/static/js/main.66d25034.js",
     "static/media/Ant Man.png": "/Memory-card-game/static/media/Ant Man.02c6c04816283f3b639d.png",
     "static/media/Luke Cage.png": "/Memory-card-game/static/media/Luke Cage.cb50efdf742b87d6966b.png",
     "static/media/Thor.png": "/Memory-card-game/static/media/Thor.8fb2839d95736ddb07c9.png",
+    "static/media/Hawkeye.png": "/Memory-card-game/static/media/Hawkeye.18a142bbfa233244f1c3.png",
     "static/media/Black Panther.png": "/Memory-card-game/static/media/Black Panther.fa934d02b9bf958b564b.png",
+    "static/media/Spiderman.png": "/Memory-card-game/static/media/Spiderman.b70de515fabbdd07acb8.png",
     "static/media/Falcon.png": "/Memory-card-game/static/media/Falcon.8473795a9845596d0a3d.png",
+    "static/media/Odin.png": "/Memory-card-game/static/media/Odin.07c2d8c79a23c5ed7339.png",
     "static/media/Loki.png": "/Memory-card-game/static/media/Loki.c19da3d7ee1514548dd3.png",
     "static/media/Quicksilver.png": "/Memory-card-game/static/media/Quicksilver.d9e6cb6db8c95294096d.png",
     "static/media/Nick Fury.png": "/Memory-card-game/static/media/Nick Fury.f64ceaa7edcb64687e08.png",
     "static/media/Dr Strange.png": "/Memory-card-game/static/media/Dr Strange.84a392d7e8cc367cfeb3.png",
     "static/media/Iron Man.png": "/Memory-card-game/static/media/Iron Man.8b7f2f2943edbea54dc7.png",
+    "static/media/Ironman.png": "/Memory-card-game/static/media/Ironman.8b7f2f2943edbea54dc7.png",
     "static/media/Daredevil.png": "/Memory-card-game/static/media/Daredevil.b652fc4da47705809d9e.png",
     "static/media/Captain America.png": "/Memory-card-game/static/media/Captain America.11b1764dc39cb6825af7.png",
     "static/media/Professor Xavier.png": "/Memory-card-game/static/media/Professor Xavier.b4036512fdc2926707a5.png",
     "static/media/Kingpin.png": "/Memory-card-game/static/media/Kingpin.3582c49eb952988add59.png",
     "static/media/Punisher.png": "/Memory-card-game/static/media/Punisher.c8c61f3a97b7cbe66b8c.png",
     "index.html": "/Memory-card-game/index.html",
-    "main.bbba3134.css.map": "/Memory-card-game/static/css/main.bbba3134.css.map",
-    "main.78d5011b.js.map": "/Memory-card-game/static/js/main.78d5011b.js.map"
+    "main.608eda25.css.map": "/Memory-card-game/static/css/main.608eda25.css.map",
+    "main.66d25034.js.map": "/Memory-card-game/static/js/main.66d25034.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbba3134.css",
-    "static/js/main.78d5011b.js"
+    "static/css/main.608eda25.css",
+    "static/js/main.66d25034.js"
   ]
 }
